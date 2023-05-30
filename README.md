@@ -13,3 +13,7 @@ For further information please see my thesis manuscript here: (to be added when 
 Anastasia Sarelli (2023). Land cover classification using machine-learning techniques applied to fused multi-modal satellite imagery and time series data.
 Master degree thesis, 30/ credits in Master in Geographical Information Science
 Department of Physical Geography and Ecosystem Science, Lund University
+
+
+
+PS: Special thanks to M. for making this happen.
